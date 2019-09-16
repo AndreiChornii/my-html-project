@@ -1,0 +1,14 @@
+body, ul{
+    padding: 0;
+    margin: 0;
+}
+
+#content{
+    background: yellow;
+    max-width: 1000px;
+    margin: auto;
+}
+
+#content img {
+    float: right;
+}
