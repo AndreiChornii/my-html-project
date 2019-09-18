@@ -62,7 +62,7 @@ header ul a {
 
 #page {
     width: 75%;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 
 #sidebar {
