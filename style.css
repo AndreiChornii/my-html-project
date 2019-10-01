@@ -54,7 +54,7 @@ header ul a {
 #container, #page{
     display: flex;
     flex-wrap: wrap;
-    align-items: end;
+    align-items: start;
 }
 
 #page .product{
